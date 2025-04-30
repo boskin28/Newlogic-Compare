@@ -1,0 +1,12 @@
+langchain
+streamlit
+pinecone[grpc]
+PyPDF2            # added to support PDF parsing
+python-dotenv
+time-python
+openai
+tiktoken
+langchain-openai
+langchain_pinecone
+langchain_community
+pycryptodome
